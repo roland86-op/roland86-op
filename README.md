@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning IBM Academy: Advanced Artificial Intelligence
 - 🤔 I’m looking for help with Machine Learning beginner guides and or materials.
+- ➡️⭐⬇️↘️🔴
+I'm not gonna sugarcoat it.
