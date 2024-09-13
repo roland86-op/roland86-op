@@ -22,11 +22,15 @@ Here are some ideas to get you started:
   College Projects:
   <br>
   - ⚙️ Analog line follower.
+  <br>
   - ⚡ Variable power supply.
+  <br>
   - 💻 Prototype of an academic system website using java.
+  <br>
   - 🕰️ Digital Clock using Arduino Uno R3.
 <br>
 - 🌱 I’m currently learning IBM Academy: Advanced Artificial Intelligence
+<br>
 - 🤔 I’m looking for help with Machine Learning beginner guides and or materials.
 
 <br>
