@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning IBM Academy: Advanced Artificial Intelligence
 - 🤔 I’m looking for help with Machine Learning beginner guides and or materials.
 
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roland86-op&label=Profile%20views&color=0e75b6&style=flat" alt="roland86-op" /> </p>
 
 <h3 align="left">Connect with me:</h3>
