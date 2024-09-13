@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<hr>
   <p>
     I'm currently studying at Institut Teknologi Batam, in a Computer Engineering Degree.
   </p>
@@ -34,6 +33,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Machine Learning beginner guides and or materials.
 
 <br>
+<hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roland86-op&label=Profile%20views&color=0e75b6&style=flat" alt="roland86-op" /> </p>
 
 <h3 align="left">Connect with me:</h3>
