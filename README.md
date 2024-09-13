@@ -20,11 +20,12 @@ Here are some ideas to get you started:
     I'm currently studying at Institut Teknologi Batam, in a Computer Engineering Degree.
   </p>
   College Projects:
+  <br>
   - ⚙️ Analog line follower.
   - ⚡ Variable power supply.
   - 💻 Prototype of an academic system website using java.
   - 🕰️ Digital Clock using Arduino Uno R3.
-<break>
+<br>
 - 🌱 I’m currently learning IBM Academy: Advanced Artificial Intelligence
 - 🤔 I’m looking for help with Machine Learning beginner guides and or materials.
 
